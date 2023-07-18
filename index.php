@@ -1,3 +1,4 @@
+<?php include 'galeria.php'?>
 <!DOCTYPE html>
 <html lang="ES">
 <head>
