@@ -1,6 +1,4 @@
 <?php include 'conexion.php';
- $conexion = new conexion();
- $proyectos= $conexion->consultar("SELECT * FROM proyectos");
  ?>
 <!DOCTYPE html>
 <html lang="ES">
